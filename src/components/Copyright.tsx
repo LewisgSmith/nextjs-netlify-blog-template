@@ -5,7 +5,7 @@ export default function Copyright() {
       <style jsx>
         {`
           p {
-            font-size: 0.75rem;
+            font-size: 1rem;
             text-align: center;
           }
         `}
